@@ -1,4 +1,20 @@
-## Hi there 👋
+# Welcome to Geert's GitHub Profile
+
+## About Me
+
+Hello! I'm Geert.
+
+## 🏅 Certifications
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+## 📬 Contact
+Feel free to reach out for collaborations, questions, or any inquiries:
+
+Email: [i.am.geert@outlook.com]
+
+Thank you for visiting my GitHub profile!
 
 <!--
 **iamgeert/iamgeert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
