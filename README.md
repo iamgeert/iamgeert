@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Update badges](https://github.com/iamgeert/iamgeert/actions/workflows/update-badges.yml/badge.svg)](https://github.com/iamgeert/iamgeert/actions/workflows/update-badges.yml)
