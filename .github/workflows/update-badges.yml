@@ -5,7 +5,10 @@ on:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
-  
+
+permissions:
+  contents: write # To write the generated contents to the readme  
+
 jobs:
   update-readme:
     name: Update Readme with badges
