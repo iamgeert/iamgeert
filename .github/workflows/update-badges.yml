@@ -17,6 +17,6 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@new-site-version
+        uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: gstroobant
